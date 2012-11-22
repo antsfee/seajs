@@ -1,4 +1,4 @@
-# SeaJS - 前端模块化开发入门与精通
+# SeaJS - 前端模块化开发入门
 
 讲师必看：[课程开发指南](https://github.com/wd-tutorials/_template/wiki)
 
